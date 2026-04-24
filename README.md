@@ -1,24 +1,29 @@
-## Hi there 👋
+# 📊 Adriano Filgueira | Data Analyst & BI Specialist
 
-<!--
-Especialidades em Power BI
-Modelagem de Dados: Criação de modelos relacionais (Star Schema / Snowflake) eficientes e performáticos.
+Olá! Sou um especialista em **Business Intelligence** focado em transformar grandes volumes de dados em insights estratégicos. Unindo o domínio técnico do **Power BI** com a automação de processos, desenvolvo soluções que otimizam a tomada de decisão e a eficiência operacional.
 
-DAX Avançado: Desenvolvimento de medidas complexas, inteligência de tempo e KPIs personalizados.
+---
 
-Storytelling & Design: Foco em UX/UI para dashboards, criando layouts limpos que facilitam a leitura dos indicadores.
+## 🛠️ Expertise em Power BI
+* **DAX Avançado:** Desenvolvimento de métricas complexas, cálculos de inteligência de tempo e KPIs de performance.
+* **Modelagem de Dados:** Estruturação de modelos robustos (Star Schema) para garantir performance e escalabilidade.
+* **UX/UI para Dashboards:** Design de layouts intuitivos e profissionais para facilitar o Storytelling dos dados.
+* **ETL & Integração:** Conexão e tratamento de dados vindos de diversas fontes como SQL, APIs, Google Sheets e Excel.
 
-Integração de Dados: Conexão com diversas fontes (Google Sheets, SQL, APIs e arquivos locais).
+## 🚀 Habilidades Complementares
+* **Automação:** Criação de scripts em **Python** e **Google Apps Script** para saneamento de bases e fluxos automáticos.
+* **Metodologias:** Aplicação de **CRISP-DM** e Engenharia de Software para garantir a qualidade (QA) dos projetos de dados.
+* **Análise Estatística:** Experiência com planejamento e análise de dados produtivos e gerenciais.
 
-🚀 Além do Power BI
-Automação: Experiência em Google Apps Script e Python para saneamento e preparação de bases de dados (ETL).
+## 🧰 Stack Tecnológica
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Google Apps Script](https://img.shields.io/badge/Google_Apps_Script-4285F4?style=for-the-badge&logo=google-apps-script&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-Qualidade de Dados: Aplicação de conceitos de QA e metodologias como CRISP-DM para garantir a integridade da informação.
+## 📫 Vamos conversar?
+* **LinkedIn:** [Seu Nome de Usuário](https://www.linkedin.com/in/seu-perfil)
+* **Email:** seu.email@exemplo.com
 
-📈 Projetos em Destaque
-Aqui você pode listar brevemente seus principais dashboards, como o de produtividade ou o sistema do PROERD que você desenvolveu.
-
-Dashboard de Produtividade Analítica: Monitoramento de indicadores operacionais com atualização automatizada.
-
-Painel Estatístico de Planejamento: Visualização de metas e desempenho de equipes.
--->
+---
+*“Dados são apenas números até que você os transforme em inteligência.”*
